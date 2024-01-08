@@ -1,0 +1,107 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+#main_container{
+    display: flex;
+    border: 3px solid grey;
+    box-shadow: 4px black;
+    height: 934px;
+    width: 40%;
+
+}
+
+
+.HappyFaceEmoji{
+    height: 60px;
+}
+#section1{
+    border: 3px solid grey;
+    
+    box-shadow: 4px black;
+    height: 199px;
+}
+#Box1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: linen;
+    border: 3px solid grey;
+    border-radius: 1%;
+    box-shadow: 4px black;
+    height: 200px; 
+    width: 350px; 
+}
+#Box2{
+    position: absolute;
+    top: 10px;
+    left: 363px;
+    background-color:aliceblue;
+    border: 3px solid grey;
+    border-radius: 1%;
+    box-shadow: 4px black;
+    height: 200px;
+    width: 377px;  
+}
+#Box3{
+    position: absolute;
+    top: 212px;
+    left: 10px;
+    background-color: gainsboro;
+    border: 3px solid grey;
+    border-radius: 1%;
+    box-shadow: 4px black;
+    height: 130px;
+    width: 730px;
+}
+#Box4{
+    position: absolute;
+    top: 342px;
+    left: 10px;
+    background-color: rgb(241, 242, 228);
+    border: 3px solid grey;
+    border-radius: 1%;
+    box-shadow: 4px black;
+    height: 600px;
+    width: 500px; 
+}
+#Box5{
+    position: absolute;
+    top: 342px;
+    background-color: antiquewhite;
+    left: 512px;
+    border: 3px solid grey;
+    border-radius: 1%;
+    box-shadow: 4px black;
+    height: 600px; 
+    width: 229px; 
+}
+#WordPress {
+    border-bottom: 15px solid green;
+    width: 90%;
+
+}
+#PHP {
+    border-bottom: 15px solid blue;
+    width: 90%; 
+}
+#HTML {
+    border-bottom: 15px solid red;
+    width: 99%;
+}
+#CSS {
+    border-bottom: 15px solid gold;
+    width: 90%;
+}
+#MySQL {
+    border-bottom: 15px solid blueviolet;
+    width: 70%;
+}
+#English {
+    
+    background:  solid green;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
